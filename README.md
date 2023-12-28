@@ -1,14 +1,2 @@
-# Project Name
-
-General project description.
-
-Read the [detailed documentation](/docs/README.md) for futher information.
-
-Find the [codebase here](/webapp).
-
-## Contributors
-
-+ NIM [Student Name](GitHub Profile URL)
-+ NIM [Student Name](GitHub Profile URL)
-+ NIM [Student Name](GitHub Profile URL)
-+ NIM [Student Name](GitHub Profile URL)
+# Novi Salon
+Here we built a website called Novi Salon using Java script and implementing Rest Api
